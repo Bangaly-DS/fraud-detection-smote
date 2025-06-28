@@ -1,7 +1,7 @@
 # fraud-detection-smote
 Machine Learning model for detecting credit card fraud using SMOTE and Random Forest.
 
-🚨 Credit Card Fraud Detection Using SMOTE & Random Forest
+# 🚨 Credit Card Fraud Detection Using SMOTE & Random Forest
 
 A machine learning project to detect fraudulent transactions using advanced resampling techniques (SMOTE) and ensemble models.
 
