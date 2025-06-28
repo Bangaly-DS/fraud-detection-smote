@@ -12,6 +12,8 @@ Source: Kaggle - Credit Card Fraud Detection
 
 Features include anonymized PCA components and Amount, Time, Class
 
+
+
 🧠 Techniques Used
 Exploratory Data Analysis
 
@@ -22,6 +24,8 @@ Train-Test Split
 Random Forest Classifier
 
 Model Evaluation (Confusion Matrix, ROC Curve, Classification Report)
+
+
 
 📊 Results
 Metric	Value
@@ -43,6 +47,8 @@ roc_curve.png and confusion_matrix.png: Visual evaluations
 creditcard.csv: Dataset (or link to Kaggle if you didn’t upload it)
 
 fraud_detection_project.zip: Complete zipped project folder
+
+
 
 🧠 Author
 Bangaly Sano
