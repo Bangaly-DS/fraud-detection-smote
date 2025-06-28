@@ -53,7 +53,6 @@ A machine learning project to detect fraudulent credit card transactions using *
 - `fraud_rf_smote_model.pkl`: Saved trained model
 - `roc_curve.png` and `confusion_matrix.png`: Visual results
 - `creditcard.csv`: Dataset *(or download from Kaggle if not included)*
-- `fraud_detection_project.zip`: Zipped project folder with all assets
 
 ---
 
