@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail.png" alt="Project Thumbnail" width="600"/>
+</p>
+
 # fraud-detection-smote
 Machine Learning model for detecting credit card fraud using SMOTE and Random Forest.
 # 🚨 Credit Card Fraud Detection Using SMOTE & Random Forest
