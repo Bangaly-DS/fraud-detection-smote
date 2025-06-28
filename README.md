@@ -67,6 +67,13 @@ Aspiring Data Scientist
 
 > Feel free to star ⭐ this repo if you find it useful or inspiring!
 
+---
+
+#DataScience #MachineLearning #FraudDetection  
+#DataSciencePortfolio #ImbalancedData  
+#SMOTE #RandomForest #PythonForDataScience  
+#TechRecruitment #GitHubProject
+
 
 
 
